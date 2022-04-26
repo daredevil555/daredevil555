@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daredevil555
 - 👀 I’m interested in Visual Surveillance, Intelligent Transportation Systems
 - 🌱 I’m currently working on YOLO
-- 💞️ I’m looking to collaborate with transportation systems group, IIT Madras
+- 💞️ I’m looking to collaborate with intelligent transportation systems group, IIT Madras
 - 📫 Reach me through mail, srinivasgundreddysahith@gmail.com
 
 <!---
