@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daredevil555
-- 👀 I’m interested in Visual Surveillance, Intelligent Transportation Systems
-- 🌱 I’m currently working on YOLO
-- 💞️ I’m looking to collaborate with intelligent transportation systems group, IIT Madras
-- 📫 Reach me through mail, srinivasgundreddysahith@gmail.com
+- 👀 I’m interested in AI for Education
+- 🌱 I’m currently working on Personalized Learning
+- 💞️ I’m looking to collaborate with IIT Madras on the MOOC project
+- 📫 Reach me through mail, gundreddy555@gmail.com
 
 <!---
 daredevil555/daredevil555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
