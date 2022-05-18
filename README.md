@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daredevil555
 - 👀 I’m interested in AI for Education
 - 🌱 I’m currently working on Personalized Learning
-- 💞️ I’m looking to collaborate with IIT Madras on the MOOC project
+- 💞️ I’m looking to collaborate with TEEL Lab, CMU
 - 📫 Reach me through mail, gundreddy555@gmail.com
 
 <!---
